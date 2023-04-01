@@ -1,0 +1,13 @@
+{
+  "resourceName": "s32626139b",
+  "policyUUID": "2626139b",
+  "bucketName": "autocube2f510d89c1b7e468c8f64bdeea65562b3",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}

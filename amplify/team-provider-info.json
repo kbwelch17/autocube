@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-autocube2-dev-160651-authRole",
+      "UnauthRoleArn": "arn:aws:iam::534495657570:role/amplify-autocube2-dev-160651-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::534495657570:role/amplify-autocube2-dev-160651-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-autocube2-dev-160651-deployment",
+      "UnauthRoleName": "amplify-autocube2-dev-160651-unauthRole",
+      "StackName": "amplify-autocube2-dev-160651",
+      "StackId": "arn:aws:cloudformation:us-east-1:534495657570:stack/amplify-autocube2-dev-160651/6942c300-cf36-11ed-8fd9-0a19f3761589",
+      "AmplifyAppId": "d20rn01t1apxs9"
+    },
+    "categories": {
+      "auth": {
+        "autocube25e89c4db": {}
+      },
+      "storage": {
+        "s32626139b": {}
+      }
+    }
+  }
+}
