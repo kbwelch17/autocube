@@ -40,7 +40,7 @@ function App({ signOut, user }) {
   async function downloadBlob(blob, filename) {
     const url = URL.createObjectURL(blob);
     const a = document.createElement("a");
-    a.href = url;s
+    a.href = url;
     return a;
   }
 
@@ -50,7 +50,7 @@ function App({ signOut, user }) {
 
   return (
     <div className="App">
-      <h1>Welcome to Autocube</h1>
+      <h1>Hello {user.username}</h1>
       <button onClick={signOut}>Sign out</button>
 
       <div>
